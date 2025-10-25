@@ -2,6 +2,6 @@
 title: Reviews
 ---
 
-## What users say about Hugobricks
+## What clients are saying
 
-Don't just take our word for it - hear from some of our satisfied users! Check out some of our testimonials below to see what others are saying about Hugobricks.
+Check out what people are saying! Here’s a glimpse of how this photography has captured special moments and supported their creative projects.

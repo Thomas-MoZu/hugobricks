@@ -8,13 +8,13 @@
 /*------------------------*/
 
 :root {
-    --textDarker: #1e282d;
+    --textDarker: #283044;
     --textDark: rgba(38, 50, 56, 1);
     --textMedium: rgba(38, 50, 56, 0.7);
     --borderMedium: rgba(38, 50, 56, 0.2);
     --borderLight: rgba(38, 50, 56, 0.075);
-    --accent: #f4b500;
-    --accentDarker: #e6ac00;
+    --accent: #4A5F8A;
+    --accentDarker: #DC6C47; 
     --light: rgba(38, 50, 56, 0.035);
 }
 /*------------------------*/

@@ -1,63 +1,29 @@
-logo_image:
-logo_subtitle: The Ultimate Hugo Theme
-dark_header: false
+logo_image: 
+logo_subtitle: Gallery, Portfolio and Blog
+dark_header: true
 mobile_view_width: 1100
 menuitems:
-  - title: Headers
-    link: /headers/
-    items:
-      - title: Title
-        link: /header-with-title/
-      - title: Content block
-        link: /header-with-content/
-      - title: Dark preheader
-        link: /header-dark/
-      - title: Dark nav
-        link: /header-darker/
-      - title: Transparent nav
-        link: /header-transparent/
-  - title: Pages
+  - title: Services
+    link: /our-services/
+  - title: About Me
     link: /about/
     items: 
       - title: About
         link: /about/
-      - title: Basic page 1
-        link: /basic/
-      - title: Basic page 2
-        link: /basic2/
-      - title: Images
-        link: /images/
-      - title: Our team
-        link: /team/
-      - title: Services
-        link: /our-services/
-      - title: Blog
-        link: /blog/
-      - title: Contact us
+      - title: My Work
+        link: /work/
+      - title: Contact me
         link: /contact/
       - title: F.A.Q.
         link: /faq/
-      - title: Webshop
-        link: /webshop/
-      - title: 404 Page
-        link: /404.html
-  - title: Elements
-    link: /elements/
-  - title: Docs
-    link: /docs/
-  - title: Examples
-    link: /demo-paragliding/
-    items: 
-      - title: Paragliding
-        link: /demo-paragliding/
-      - title: Hiking
-        link: /demo-hiking/
-      - title: Poulterer
-        link: /demo-poulterer/
-      - title: POS software
-        link: /demo-pos/
+  - title: Gallery
+    link: /gallery/  
+  - title: Blog
+    link: /blog/
+  - title: Webshop
+    link: /webshop/
 cta:
   active: true
   title: Get started
   link: /get-started/
-preheader: open Mon-Fri from 9-5
+preheader: site under construction

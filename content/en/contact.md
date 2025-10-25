@@ -1,25 +1,29 @@
 ---
-title: Contact us
+title: Contact me
+dark_header: true
+dark_footer: false
+preheader_is_light: false
 ---
 {{< brick_title >}}
 
 {{< breadcrumbs >}}
 
-# Contact us
+# Contact me
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+If you're interested in discussing a photographic project or looking for prints, please reach out!
 
 {{< /brick_title >}}
 {{< brick_contact >}}
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
 
-Soetendaal 7  
-1081BL Amsterdam  
-The Netherlands
 
-joost@vdschee.nl  
-+31 618 518 928
+Fasle Creek  
+Vancouver, BC  
+Canada
+
+contact[@]thomasmozuphotography.ca  
++1 778 798 1234
 
 {{< socialbuttons >}}
 

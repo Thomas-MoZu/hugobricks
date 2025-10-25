@@ -1,13 +1,16 @@
 ---
 title: Get started
+dark_header: true
+dark_footer: false
+preheader_is_light: false
 ---
 {{< brick_small >}}
 
 {{< breadcrumbs >}}
 
-# Get started
+## Let’s Create Something Beautiful Together!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc feugiat, nulla et scelerisque volutpat, elit felis condimentum odio, et bibendum lacus sem sed turpis. 
+I’m excited to collaborate and bring your vision to life! Contact me today to discuss your photography needs.
 
 ---
 

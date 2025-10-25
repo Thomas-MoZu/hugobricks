@@ -1,10 +1,10 @@
 ---
 title: cta
 ---
-## Get started with Hugobricks today!
+## Let's Create Something Beautiful Together!
 
-Experience the future of web development with Hugo and stackable content bricks. Build lightning-fast static sites with ease and flexibility.
+I'm excited to collaborate and bring your vision to life! Contact me today to discuss your photography needs.
 
-{{< button2 "Get started now" "/get-started/" >}}
+{{< button2 "Get started" "/get-started/" >}}
 
-![](/uploads/illustrations/cuate/server.svg)
+![](/uploads/illustrations/cuate/undraw_business-deal_nx2n.svg)
