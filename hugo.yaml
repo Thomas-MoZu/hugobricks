@@ -1,4 +1,4 @@
-baseURL: https://www.hugobricks.preview.usecue.com
+baseURL: http://thomasmozuphotography.ca
 theme: hugobricks
 defaultContentLanguage: en
 assetDir: static
@@ -40,8 +40,8 @@ languages:
         services: /services/
         products: /webshop/
   nl:
-    languageName: Nederlands
-    contentDir: content/nl
+    languageName: Français
+    contentDir: content/fr
     weight: 2
     disabled: false
     params:
