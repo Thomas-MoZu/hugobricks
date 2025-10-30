@@ -7,121 +7,64 @@ title: Services
 
 # Services
 
-This is a demo of the services page. In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin.
+I offer a diverse range of photographic services tailored to meet your unique needs, capturing moments with creativity and professionalism. From stunning portraits to captivating event photography, I am dedicated to delivering exceptional images that tell your story.
 
 {{< /brick_services >}}
 {{< brick_blocks >}}
 
 ## Alternative services 1
 
-Hugobricks covers all components you would like to have at hand. It is a power engine for your web oriented projects. It has excellent performance in all categories.
-
 ---
 
 ![](/uploads/gallery/01.jpg)
-### Covers all components
+### Portrait Photography
 
-Includes many bricks.
+From individual portraits to corporate headshots.
 
-[](/our-services/)
+[](/services/first-service/)
 
 ---
 
 ![](/uploads/gallery/02.jpg)
-### 99+ Google Lighthouse score
+### Event Photography
 
-Lightning fast website.
+Sports, live music or conferences.
 
 [](/our-services/)
 
 ---
 
 ![](/uploads/gallery/03.jpg)
-### Themeable through CSS variables
+### Product Photography
 
-Easily themeable.
+Showcasing products in the best light.
 
 [](/our-services/)
 
 ---
 
 ![](/uploads/gallery/04.jpg)
-### Fully responsive on all devices
+### Commercial Photography
 
-Works on every screen.
+Brand identity enhamcement.
 
 [](/our-services/)
 
 ---
 
 ![](/uploads/gallery/05.jpg)
-### Super fast builds and deploys
+### Real Estate Photography
 
-Extremely fast.
+Showcasing your property.
 
 [](/our-services/)
 
 ---
 
 ![](/uploads/photos/06.jpg)
-### 10+ pre-build pages
+### 1:1 Photographic Course
 
-Start with the end result.
-
-[](/our-services/)
-
-{{< /brick_blocks >}}
-{{< brick_blocks >}}
-
-## Alternative services 2
-
-Hugobricks covers all components you would like to have at hand. It is a power engine for your web oriented projects. It has excellent performance in all categories.
-
----
-
-### Covers all components
-
-Includes many bricks.
-
-[](/our-services/)
-
----
-
-### 99+ Google Lighthouse score
-
-Lightning fast website.
-
-[](/our-services/)
-
----
-
-### Themeable through CSS variables
-
-Easily themeable.
-
-[](/our-services/)
-
----
-
-### Fully responsive on all devices
-
-Works on every screen.
-
-[](/our-services/)
-
----
-
-### Super fast builds and deploys
-
-Extremely fast.
-
-[](/our-services/)
-
----
-
-### 10+ pre-build pages
-
-Start with the end result.
+Personalized photography lessons.
 
 [](/our-services/)
 
