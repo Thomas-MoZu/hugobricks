@@ -12,7 +12,7 @@ preheader_is_light: false
 
 Outdoor photographer based in Vancouver, BC.
 
-I'm from France but garteful to live on the unceded traditional territories of the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh (Squamish), and səlilwətaɬ (Tsleil-Waututh) Nations.
+I'm from France but garteful to live on the unceded traditional territories of the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh (Squamish), and səlilwətaɬ (Tsleil-Waututh) Nations - [Vancouver, BC, Canada]
 
 As an avid mountain biker, skier - especially ski touring, and paraglider, I spend a lot of my time exploring the great outdoors with friends. My camera is always in my backpack, ready to capture the adventures we embark on together. This passion for outdoor activities not only fuels my love for nature but also inspires my work as an outdoor and action photographer. Each trip offers a new opportunity to document the thrill of the moment and the beauty of the landscapes we traverse.
 
